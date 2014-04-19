@@ -16,6 +16,11 @@ html,body,iframe{
 	display: none!important;
 }
 
+.progress{
+  border: 1px solid;
+  padding: 1px;
+}
+
 .splash {
     position:absolute;
     top:40%;
